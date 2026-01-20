@@ -1,0 +1,7 @@
+# Composer
+/vendor/
+composer.lock
+
+# Firebase Service Account (DO NOT COMMIT)
+admin/firebase-service-account.json
+
